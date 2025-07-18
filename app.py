@@ -58,10 +58,13 @@ def predict():
 
         encoded = []
         for field, val in zip(fields, inputs):
-            if val in encoders[field].classes_:
-                encoded.append(encoders[field].transform([val])[0])
+            encoder_classes_lower = [cls.lower().strip() for cls in encoders[field].classes_]
+            if val in encoder_classes_lower:
+                # Match the original class value (case-sensitive)
+                original_val = encoders[field].classes_[encoder_classes_lower.index(val)]
+                encoded.append(encoders[field].transform([original_val])[0])
             else:
-                raise ValueError(f"Invalid input: {val}")
+                raise ValueError(f"Invalid input for {field}: {val}")
 
         prediction = model.predict([encoded])[0]
         result = target_encoder.inverse_transform([prediction])[0]
