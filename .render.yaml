@@ -3,4 +3,4 @@ services:
     name: ai-career-guidance
     env: python
     buildCommand: ""
-    startCommand: "python app.py"
+    startCommand: python app.py
