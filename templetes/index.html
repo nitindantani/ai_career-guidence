@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Career Guidance</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+            margin: 0;
+        }
+
+        form {
+            background: #fff;
+            padding: 20px;
+            border-radius: 12px;
+            max-width: 600px;
+            margin: 20px auto;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        h2, h3 {
+            text-align: center;
+            color: #333;
+        }
+
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 15px;
+        }
+
+        input[type="text"], select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 6px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            text-align: center;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        .result {
+            background-color: #e3f2fd;
+            border-left: 5px solid #2196F3;
+            padding: 15px;
+            margin-top: 20px;
+        }
+
+        @media (max-width: 600px) {
+            form {
+                padding: 15px;
+                margin: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h2>AI-Based Career Guidance System</h2>
+
+    <form method="POST" action="/predict">
+        <label for="stream">Stream</label>
+        <input type="text" name="stream" id="stream" placeholder="e.g. Science" autocomplete="off">
+
+        <label for="subject_liked">Subject You Like</label>
+        <input type="text" name="subject_liked" id="subject_liked" placeholder="e.g. Biology" autocomplete="off">
+
+        <label for="skills">Technical Skills</label>
+        <input type="text" name="skills" id="skills" placeholder="e.g. Python" autocomplete="off">
+
+        <label for="soft_skill">Soft Skills</label>
+        <input type="text" name="soft_skill" id="soft_skill" placeholder="e.g. Leadership" autocomplete="off">
+
+        <label for="preferred_field">Preferred Field</label>
+        <input type="text" name="preferred_field" id="preferred_field" placeholder="e.g. Healthcare" autocomplete="off">
+
+        <input type="submit" value="Get Career Prediction">
+    </form>
+
+    {% if result %}
+    <div class="result">
+        <strong>Prediction Result:</strong><br>
+        {{ result }}
+    </div>
+    {% endif %}
+
+    <form method="POST" action="/chat">
+        <h3>Ask AI Career Questions</h3>
+        <input type="text" name="question" placeholder="e.g. What career is best for a coder?" required>
+        <input type="submit" value="Ask AI">
+    </form>
+
+    {% if chat_answer %}
+    <div class="result">
+        <strong>AI Answer:</strong><br>
+        {{ chat_answer }}
+    </div>
+    {% endif %}
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+    <script>
+        const fields = ['stream', 'subject_liked', 'skills', 'soft_skill', 'preferred_field'];
+
+        fields.forEach(function(field) {
+            $("#" + field).autocomplete({
+                source: function(request, response) {
+                    $.ajax({
+                        url: "/autocomplete",
+                        dataType: "json",
+                        data: {
+                            field: field,
+                            term: request.term
+                        },
+                        success: function(data) {
+                            response(data);
+                        }
+                    });
+                },
+                minLength: 1
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+stream,subject_liked,skills,soft_skill,preferred_field,career_label
+Science,Economics,Creativity,Adaptability,Research,Teacher
+Commerce,Math,Creativity,Adaptability,Research,AI Researcher
+Management,Chemistry,Teamwork,Leadership,Design,Investment Banker
+Computer Science,Math,Research,Collaboration,Healthcare,Psychologist
+Management,History,Programming,Empathy,Education,Graphic Designer
+Management,Biology,Teamwork,Adaptability,Engineering,Software Engineer
+Engineering,Math,Problem Solving,Leadership,Education,Entrepreneur
+Engineering,History,Analytical Thinking,Adaptability,Education,Psychologist
+Computer Science,Chemistry,Creativity,Critical Thinking,Finance,Web Developer
+Computer Science,Math,Creativity,Adaptability,Education,Entrepreneur
+Management,CS,Problem Solving,Critical Thinking,Education,UX Designer
+Computer Science,CS,Research,Leadership,Education,Teacher
+Commerce,Physics,Analytical Thinking,Critical Thinking,IT,Graphic Designer
+Computer Science,Geography,Teamwork,Leadership,IT,Data Scientist
+Computer Science,Chemistry,Programming,Adaptability,IT,Lawyer
+Arts,Accounts,Analytical Thinking,Leadership,Healthcare,Accountant
+Commerce,Biology,Teamwork,Critical Thinking,Engineering,Lawyer
+Computer Science,Biology,Programming,Empathy,Research,Lawyer
+Management,Accounts,Teamwork,Adaptability,Research,Data Scientist
+Science,Chemistry,Teamwork,Leadership,Finance,Web Developer
+Engineering,Physics,Communication,Leadership,IT,Civil Servant
+Management,CS,Creativity,Empathy,Engineering,Psychologist
+Science,Economics,Creativity,Critical Thinking,Research,Graphic Designer
+Management,Physics,Creativity,Leadership,Marketing,Civil Servant
+Commerce,Biology,Analytical Thinking,Adaptability,Research,Teacher
+Computer Science,Biology,Teamwork,Time Management,Engineering,Web Developer
+Computer Science,Math,Analytical Thinking,Collaboration,Education,Accountant
+Management,Accounts,Teamwork,Critical Thinking,Healthcare,Business Analyst
+Engineering,Biology,Analytical Thinking,Critical Thinking,Design,Robotics Engineer
+Computer Science,History,Creativity,Empathy,Education,Web Developer
+Commerce,History,Communication,Leadership,Design,UX Designer
+Commerce,Accounts,Teamwork,Empathy,Education,Doctor
+Medical,Physics,Programming,Collaboration,Engineering,Business Analyst
+Engineering,Geography,Creativity,Empathy,Engineering,Doctor
+Management,CS,Communication,Time Management,Finance,Data Scientist
+Commerce,Accounts,Teamwork,Time Management,IT,Doctor
+Science,History,Communication,Critical Thinking,Marketing,AI Researcher
+Engineering,Chemistry,Communication,Collaboration,Education,Psychologist
+Management,Math,Teamwork,Adaptability,Marketing,Psychologist
+Commerce,CS,Communication,Leadership,Research,Accountant
+Computer Science,Math,Problem Solving,Time Management,IT,Pharmacist
+Commerce,Accounts,Teamwork,Adaptability,Design,Business Analyst
+Commerce,CS,Creativity,Empathy,Engineering,UX Designer
+Arts,Biology,Analytical Thinking,Empathy,Finance,Architect
+Medical,History,Teamwork,Time Management,Finance,UX Designer
+Medical,CS,Research,Collaboration,Research,Robotics Engineer
+Management,Accounts,Communication,Empathy,Marketing,Pharmacist
+Commerce,Biology,Programming,Collaboration,Marketing,Business Analyst
+Computer Science,Physics,Programming,Adaptability,Marketing,AI Researcher
+Engineering,Geography,Communication,Leadership,Marketing,Civil Servant
+Arts,Biology,Analytical Thinking,Collaboration,Marketing,Marketing Manager
+Commerce,CS,Problem Solving,Empathy,IT,Investment Banker
+Science,Economics,Programming,Empathy,IT,Investment Banker
+Computer Science,CS,Communication,Empathy,Education,Entrepreneur
+Medical,History,Analytical Thinking,Collaboration,Engineering,Psychologist
+Management,Biology,Teamwork,Leadership,IT,Software Engineer
+Engineering,Geography,Analytical Thinking,Leadership,Design,Civil Servant
+Engineering,Accounts,Creativity,Time Management,Design,Entrepreneur
+Management,Geography,Communication,Empathy,Design,Pharmacist
+Management,Math,Programming,Critical Thinking,Healthcare,Data Scientist
+Engineering,Chemistry,Teamwork,Critical Thinking,Engineering,Graphic Designer
+Management,Math,Programming,Adaptability,Design,Teacher
+Engineering,Economics,Communication,Time Management,IT,Robotics Engineer
+Commerce,Chemistry,Research,Collaboration,Healthcare,Marketing Manager
+Arts,Physics,Creativity,Collaboration,Education,Pharmacist
+Commerce,Accounts,Problem Solving,Leadership,IT,Entrepreneur
+Management,Biology,Creativity,Adaptability,Engineering,Civil Servant
+Commerce,CS,Programming,Leadership,Design,Data Scientist
+Management,Economics,Teamwork,Critical Thinking,Healthcare,Mechanical Engineer
+Commerce,Physics,Programming,Time Management,Finance,Robotics Engineer
+Commerce,Chemistry,Analytical Thinking,Empathy,Engineering,Marketing Manager
+Computer Science,Math,Problem Solving,Empathy,Research,AI Researcher
+Science,Math,Programming,Leadership,Engineering,Psychologist
+Engineering,Accounts,Teamwork,Empathy,Finance,AI Researcher
+Commerce,Chemistry,Communication,Adaptability,IT,AI Researcher
+Management,Physics,Creativity,Time Management,Finance,Investment Banker
+Commerce,Chemistry,Problem Solving,Adaptability,Design,Robotics Engineer
+Medical,Economics,Research,Time Management,Design,Investment Banker
+Science,CS,Communication,Empathy,Healthcare,Graphic Designer
+Arts,Chemistry,Programming,Leadership,Education,AI Researcher
+Medical,Economics,Communication,Collaboration,Design,Accountant
+Arts,CS,Research,Adaptability,Healthcare,Mechanical Engineer
+Commerce,Physics,Analytical Thinking,Leadership,Research,Doctor
+Arts,History,Communication,Critical Thinking,Marketing,Doctor
+Computer Science,Economics,Programming,Leadership,Research,Graphic Designer
+Commerce,Geography,Research,Critical Thinking,Finance,Architect
+Computer Science,Math,Creativity,Time Management,Design,Data Scientist
+Engineering,Biology,Problem Solving,Empathy,Research,Graphic Designer
+Medical,Economics,Creativity,Adaptability,IT,Graphic Designer
+Science,History,Research,Leadership,Research,AI Researcher
+Computer Science,Biology,Analytical Thinking,Empathy,Healthcare,Software Engineer
+Arts,Physics,Communication,Leadership,Engineering,Doctor
+Science,Biology,Analytical Thinking,Empathy,Design,Pharmacist
+Arts,History,Research,Empathy,Education,Software Engineer
+Management,Physics,Research,Empathy,Finance,Investment Banker
+Management,Physics,Research,Adaptability,Education,Web Developer
+Medical,Accounts,Creativity,Collaboration,Marketing,UX Designer
+Science,Chemistry,Analytical Thinking,Time Management,Marketing,Software Engineer
+Computer Science,Math,Programming,Critical Thinking,Marketing,Psychologist
+Engineering,CS,Creativity,Collaboration,IT,Lawyer
+Science,Geography,Teamwork,Adaptability,Engineering,Marketing Manager
+Commerce,Geography,Communication,Empathy,Education,Web Developer
+Engineering,Physics,Communication,Leadership,Design,Graphic Designer
+Management,Biology,Research,Empathy,Engineering,Software Engineer
+Engineering,CS,Problem Solving,Adaptability,Education,Teacher
+Commerce,Chemistry,Communication,Adaptability,IT,Civil Servant
+Computer Science,CS,Problem Solving,Leadership,Marketing,Pharmacist
+Commerce,Math,Analytical Thinking,Empathy,IT,Business Analyst
+Commerce,Math,Programming,Critical Thinking,IT,Psychologist
+Science,Biology,Communication,Critical Thinking,Engineering,Civil Servant
+Management,Geography,Analytical Thinking,Collaboration,Marketing,Entrepreneur
+Science,Geography,Analytical Thinking,Empathy,Research,Graphic Designer
+Management,Chemistry,Problem Solving,Collaboration,Education,Architect
+Science,Accounts,Communication,Leadership,Marketing,Doctor
+Computer Science,CS,Teamwork,Adaptability,Education,Mechanical Engineer
+Science,Economics,Programming,Adaptability,Engineering,Civil Servant
+Management,Physics,Teamwork,Time Management,Marketing,Robotics Engineer
+Engineering,Math,Communication,Empathy,Research,Civil Servant
+Commerce,History,Research,Empathy,Healthcare,Marketing Manager
+Management,History,Problem Solving,Leadership,Engineering,UX Designer
+Medical,Math,Analytical Thinking,Empathy,Engineering,Graphic Designer
+Medical,History,Analytical Thinking,Collaboration,Research,Architect
+Arts,Biology,Research,Collaboration,Finance,Teacher
+Arts,Geography,Communication,Critical Thinking,IT,AI Researcher
+Computer Science,Biology,Creativity,Empathy,Marketing,Graphic Designer
+Medical,Geography,Programming,Leadership,Engineering,Pharmacist
+Commerce,CS,Communication,Time Management,Healthcare,Investment Banker
+Arts,Chemistry,Problem Solving,Time Management,Design,AI Researcher
+Commerce,Geography,Analytical Thinking,Empathy,IT,Investment Banker
+Computer Science,Physics,Creativity,Collaboration,Finance,Doctor
+Management,Biology,Problem Solving,Leadership,Engineering,UX Designer
+Management,Economics,Analytical Thinking,Empathy,Engineering,Lawyer
+Medical,Physics,Problem Solving,Empathy,Finance,Lawyer
+Engineering,Accounts,Programming,Empathy,Engineering,Web Developer
+Science,Economics,Communication,Leadership,Engineering,Pharmacist
+Commerce,Chemistry,Creativity,Critical Thinking,Finance,Entrepreneur
+Computer Science,Economics,Communication,Adaptability,Research,Software Engineer
+Commerce,CS,Programming,Collaboration,Education,Doctor
+Computer Science,Biology,Problem Solving,Leadership,Finance,Investment Banker
+Management,Geography,Teamwork,Critical Thinking,Research,Business Analyst
+Computer Science,Accounts,Programming,Empathy,Marketing,Robotics Engineer
+Computer Science,Chemistry,Teamwork,Time Management,IT,Robotics Engineer
+Engineering,Math,Communication,Critical Thinking,Research,Psychologist
+Science,CS,Communication,Collaboration,Design,Entrepreneur
+Commerce,Accounts,Programming,Empathy,Design,Investment Banker
+Arts,Math,Analytical Thinking,Time Management,IT,AI Researcher
+Medical,Biology,Communication,Leadership,Design,Software Engineer
+Medical,Physics,Analytical Thinking,Critical Thinking,Design,Pharmacist
+Computer Science,Accounts,Analytical Thinking,Empathy,Design,Software Engineer
+Engineering,Accounts,Research,Leadership,Healthcare,UX Designer
+Science,Geography,Analytical Thinking,Leadership,Education,Pharmacist
+Commerce,Physics,Communication,Critical Thinking,Healthcare,AI Researcher
+Medical,Physics,Creativity,Collaboration,Education,Marketing Manager
+Computer Science,Biology,Research,Critical Thinking,Engineering,Lawyer
+Medical,CS,Programming,Adaptability,Education,Robotics Engineer
+Commerce,Math,Teamwork,Collaboration,Design,Lawyer
+Arts,Economics,Teamwork,Collaboration,Research,Civil Servant
+Engineering,Accounts,Problem Solving,Critical Thinking,Finance,Teacher
+Arts,History,Communication,Leadership,Design,Graphic Designer
+Medical,Accounts,Programming,Empathy,Design,AI Researcher
+Computer Science,Biology,Research,Time Management,IT,Teacher
+Computer Science,Math,Creativity,Adaptability,Marketing,Marketing Manager
+Arts,Chemistry,Communication,Leadership,Engineering,Mechanical Engineer
+Arts,CS,Analytical Thinking,Critical Thinking,Design,Teacher
+Arts,Chemistry,Programming,Empathy,Design,Graphic Designer
+Computer Science,History,Research,Adaptability,Design,Software Engineer
+Management,Chemistry,Research,Critical Thinking,IT,Robotics Engineer
+Management,Chemistry,Research,Adaptability,Engineering,Data Scientist
+Engineering,Physics,Analytical Thinking,Adaptability,Healthcare,Doctor
+Commerce,History,Programming,Collaboration,IT,Pharmacist
+Computer Science,Economics,Analytical Thinking,Leadership,IT,Doctor
+Medical,Math,Creativity,Collaboration,Marketing,Business Analyst
+Engineering,Accounts,Research,Time Management,Finance,Doctor
+Commerce,CS,Analytical Thinking,Empathy,Marketing,Web Developer
+Engineering,Geography,Creativity,Adaptability,Design,Teacher
+Arts,Economics,Research,Time Management,Engineering,Accountant
+Arts,Biology,Programming,Leadership,Marketing,Graphic Designer
+Science,Chemistry,Teamwork,Collaboration,Marketing,Data Scientist
+Engineering,Math,Analytical Thinking,Critical Thinking,Engineering,Accountant
+Arts,CS,Communication,Collaboration,Education,Data Scientist
+Computer Science,CS,Research,Empathy,Marketing,AI Researcher
+Medical,Economics,Creativity,Leadership,IT,Software Engineer
+Science,Biology,Problem Solving,Empathy,Finance,Mechanical Engineer
+Management,Accounts,Analytical Thinking,Empathy,Finance,Pharmacist
+Medical,History,Teamwork,Time Management,Marketing,Robotics Engineer
+Medical,Biology,Research,Critical Thinking,Healthcare,Mechanical Engineer
+Computer Science,Geography,Research,Critical Thinking,IT,Psychologist
+Medical,Math,Analytical Thinking,Leadership,Engineering,AI Researcher
+Commerce,Math,Programming,Adaptability,Research,Entrepreneur
+Computer Science,Physics,Problem Solving,Empathy,Finance,Data Scientist
+Engineering,History,Research,Collaboration,Marketing,Accountant
+Engineering,Accounts,Communication,Leadership,Marketing,UX Designer
+Medical,Geography,Analytical Thinking,Empathy,Engineering,Investment Banker
+Arts,CS,Teamwork,Time Management,Marketing,Robotics Engineer
+Engineering,Economics,Research,Time Management,Marketing,Investment Banker
+Management,History,Communication,Adaptability,Healthcare,Doctor
+Commerce,Biology,Analytical Thinking,Critical Thinking,Education,Graphic Designer
+Commerce,Economics,Creativity,Empathy,Marketing,UX Designer
+Science,History,Communication,Leadership,IT,Software Engineer
+Medical,Economics,Teamwork,Adaptability,IT,Architect
+Arts,Geography,Communication,Critical Thinking,Research,Web Developer
+Medical,Geography,Creativity,Time Management,Education,Marketing Manager
+Engineering,Geography,Problem Solving,Adaptability,Design,Business Analyst
+Medical,Chemistry,Creativity,Time Management,Healthcare,Doctor
+Management,Biology,Communication,Adaptability,Design,Business Analyst
+Engineering,Physics,Problem Solving,Leadership,Education,AI Researcher
+Computer Science,Geography,Creativity,Leadership,Engineering,Business Analyst
+Arts,Geography,Programming,Collaboration,IT,Robotics Engineer
+Arts,Biology,Research,Time Management,IT,Psychologist
+Arts,Geography,Programming,Empathy,Marketing,Software Engineer
+Management,Math,Research,Time Management,Engineering,Architect
+Medical,Geography,Analytical Thinking,Collaboration,Marketing,UX Designer
+Arts,Economics,Communication,Adaptability,Healthcare,Mechanical Engineer
+Medical,Math,Research,Critical Thinking,Education,Accountant
+Medical,CS,Research,Adaptability,IT,AI Researcher
+Arts,Accounts,Creativity,Adaptability,Healthcare,Teacher
+Computer Science,CS,Communication,Time Management,Education,Architect
+Management,Geography,Analytical Thinking,Time Management,IT,Software Engineer
+Engineering,Biology,Communication,Time Management,IT,Web Developer
+Management,Accounts,Creativity,Collaboration,Finance,Investment Banker
+Medical,History,Teamwork,Empathy,IT,Business Analyst
+Engineering,Geography,Problem Solving,Critical Thinking,Education,Investment Banker
+Engineering,Physics,Research,Time Management,Engineering,AI Researcher
+Management,Math,Communication,Critical Thinking,Design,Teacher
+Computer Science,CS,Programming,Critical Thinking,IT,Data Scientist
+Science,History,Creativity,Collaboration,Healthcare,Marketing Manager
+Engineering,History,Analytical Thinking,Collaboration,Education,Robotics Engineer
+Commerce,Accounts,Teamwork,Empathy,Marketing,Software Engineer
+Science,Physics,Analytical Thinking,Time Management,Engineering,Doctor
+Arts,Chemistry,Problem Solving,Empathy,Healthcare,Civil Servant
+Commerce,Chemistry,Creativity,Collaboration,Finance,Mechanical Engineer
+Computer Science,CS,Problem Solving,Time Management,Design,Data Scientist
+Science,Math,Communication,Adaptability,Design,AI Researcher
+Science,Chemistry,Creativity,Adaptability,Healthcare,Architect
+Engineering,Physics,Communication,Collaboration,Healthcare,Lawyer
+Computer Science,History,Creativity,Empathy,Research,Pharmacist
+Arts,CS,Problem Solving,Adaptability,Marketing,Entrepreneur
+Management,Biology,Analytical Thinking,Adaptability,Design,Investment Banker
+Commerce,Accounts,Research,Adaptability,Marketing,Mechanical Engineer
+Science,Economics,Creativity,Empathy,Marketing,Entrepreneur
+Science,Physics,Teamwork,Empathy,Research,Web Developer
+Science,Math,Analytical Thinking,Collaboration,Education,Investment Banker
+Science,Chemistry,Programming,Collaboration,IT,Lawyer
+Commerce,History,Analytical Thinking,Time Management,Finance,Entrepreneur
+Medical,Physics,Teamwork,Critical Thinking,Engineering,Civil Servant
+Management,Economics,Analytical Thinking,Empathy,IT,Investment Banker
+Management,Geography,Problem Solving,Leadership,Engineering,Robotics Engineer
+Engineering,Chemistry,Programming,Leadership,Engineering,Pharmacist
+Management,History,Teamwork,Collaboration,Education,AI Researcher
+Computer Science,Economics,Problem Solving,Empathy,Finance,Web Developer
+Management,Biology,Problem Solving,Empathy,IT,Entrepreneur
+Computer Science,Chemistry,Creativity,Leadership,Education,Civil Servant
+Commerce,Chemistry,Research,Empathy,Design,Business Analyst
+Engineering,Biology,Research,Empathy,Design,Business Analyst
+Computer Science,Math,Problem Solving,Adaptability,Education,Robotics Engineer
+Computer Science,History,Communication,Leadership,Design,Investment Banker
+Commerce,Geography,Problem Solving,Critical Thinking,Healthcare,Doctor
+Engineering,CS,Analytical Thinking,Leadership,Finance,Accountant
+Computer Science,Math,Research,Empathy,Finance,Entrepreneur
+Medical,CS,Communication,Leadership,IT,Software Engineer
+Arts,Geography,Problem Solving,Time Management,Engineering,Investment Banker
+Management,Biology,Programming,Adaptability,Healthcare,Doctor
+Science,Biology,Analytical Thinking,Collaboration,Design,Civil Servant
+Science,Geography,Research,Critical Thinking,Healthcare,Psychologist
+Medical,CS,Problem Solving,Collaboration,Design,Entrepreneur
+Computer Science,CS,Research,Empathy,Finance,Mechanical Engineer
+Management,Economics,Programming,Empathy,Healthcare,Architect
+Engineering,Chemistry,Problem Solving,Empathy,IT,Entrepreneur
+Science,Geography,Problem Solving,Empathy,Marketing,Lawyer
+Commerce,Geography,Analytical Thinking,Collaboration,Research,Investment Banker
+Arts,Chemistry,Analytical Thinking,Empathy,Finance,Psychologist
+Medical,Math,Communication,Critical Thinking,Design,AI Researcher
+Computer Science,Geography,Problem Solving,Leadership,Healthcare,Robotics Engineer
+Science,CS,Problem Solving,Leadership,Education,Psychologist
+Medical,Geography,Creativity,Empathy,Education,Doctor
+Commerce,Biology,Communication,Collaboration,Healthcare,Robotics Engineer
+Medical,Economics,Teamwork,Collaboration,Engineering,Business Analyst
+Medical,CS,Analytical Thinking,Time Management,Finance,UX Designer
+Management,Chemistry,Problem Solving,Critical Thinking,Design,Doctor
+Science,Geography,Teamwork,Time Management,IT,Accountant
+Engineering,Biology,Teamwork,Collaboration,Education,Lawyer
+Science,Biology,Research,Adaptability,Engineering,Investment Banker
+Arts,Chemistry,Creativity,Critical Thinking,Design,Entrepreneur
+Science,Geography,Programming,Leadership,IT,Civil Servant
+Medical,Math,Analytical Thinking,Leadership,Research,Data Scientist
+Medical,History,Communication,Empathy,Healthcare,Business Analyst
+Science,Math,Programming,Empathy,Education,Pharmacist
+Computer Science,CS,Creativity,Adaptability,Design,Software Engineer
+Medical,CS,Problem Solving,Collaboration,Finance,Psychologist
+Commerce,Accounts,Teamwork,Empathy,Marketing,Civil Servant
+Science,Biology,Programming,Leadership,Education,Robotics Engineer
+Science,Biology,Programming,Leadership,Design,Psychologist
+Management,Geography,Programming,Critical Thinking,IT,Architect
+Medical,Chemistry,Communication,Critical Thinking,Healthcare,Robotics Engineer
+Science,Chemistry,Programming,Critical Thinking,Marketing,Data Scientist
+Engineering,Economics,Research,Adaptability,IT,Robotics Engineer
+Engineering,History,Problem Solving,Empathy,Finance,Psychologist
+Engineering,Chemistry,Analytical Thinking,Collaboration,Engineering,Robotics Engineer
+Computer Science,Accounts,Communication,Collaboration,Healthcare,Accountant
+Commerce,Biology,Communication,Empathy,Finance,Robotics Engineer
+Science,Biology,Research,Adaptability,Research,AI Researcher
+Computer Science,Geography,Research,Critical Thinking,IT,Accountant
+Computer Science,Physics,Creativity,Adaptability,Design,Psychologist
+Science,Chemistry,Analytical Thinking,Time Management,Education,Entrepreneur
+Science,CS,Communication,Collaboration,Design,Entrepreneur
+Computer Science,Geography,Creativity,Collaboration,Education,Entrepreneur
+Commerce,History,Research,Collaboration,Education,Web Developer
+Engineering,Chemistry,Programming,Collaboration,Design,Marketing Manager
+Computer Science,Biology,Communication,Empathy,Engineering,AI Researcher
+Engineering,Accounts,Analytical Thinking,Empathy,Healthcare,Graphic Designer
+Medical,Geography,Research,Adaptability,Marketing,Entrepreneur
+Science,CS,Problem Solving,Collaboration,Research,Architect
+Management,Chemistry,Communication,Empathy,Marketing,Civil Servant
+Engineering,History,Research,Critical Thinking,Design,Business Analyst
+Medical,Geography,Teamwork,Adaptability,IT,Data Scientist
+Management,CS,Problem Solving,Empathy,Marketing,Accountant
+Commerce,Physics,Analytical Thinking,Critical Thinking,Finance,Marketing Manager
+Arts,Economics,Problem Solving,Time Management,Engineering,Lawyer
+Engineering,Physics,Research,Critical Thinking,Research,UX Designer
+Arts,Accounts,Communication,Adaptability,IT,Data Scientist
+Science,Physics,Creativity,Collaboration,Marketing,Civil Servant
+Commerce,Physics,Creativity,Time Management,Engineering,Entrepreneur
+Science,Physics,Research,Time Management,Engineering,Teacher
+Arts,History,Analytical Thinking,Adaptability,Healthcare,AI Researcher
+Management,History,Problem Solving,Adaptability,Education,Architect
+Science,Geography,Communication,Leadership,Finance,Architect
+Science,Physics,Programming,Adaptability,Design,Robotics Engineer
+Medical,Math,Programming,Critical Thinking,Healthcare,Architect
+Medical,History,Research,Collaboration,Engineering,UX Designer
+Medical,Biology,Teamwork,Empathy,Healthcare,Lawyer
+Management,Economics,Programming,Time Management,Marketing,Teacher
+Medical,Accounts,Teamwork,Leadership,IT,Teacher
+Management,Economics,Research,Collaboration,Marketing,Mechanical Engineer
+Management,Geography,Research,Collaboration,Engineering,Graphic Designer
+Commerce,Chemistry,Communication,Adaptability,Education,Psychologist
+Science,History,Communication,Leadership,Marketing,Robotics Engineer
+Science,Economics,Communication,Collaboration,Marketing,Robotics Engineer
+Science,Accounts,Communication,Critical Thinking,Marketing,Pharmacist
+Commerce,Economics,Creativity,Empathy,Marketing,Business Analyst
+Management,Physics,Analytical Thinking,Critical Thinking,Education,Investment Banker
+Engineering,Economics,Communication,Leadership,Research,Teacher
+Management,History,Analytical Thinking,Critical Thinking,Design,Civil Servant
+Commerce,Economics,Teamwork,Empathy,Finance,Marketing Manager
+Engineering,Math,Research,Empathy,Research,Teacher
+Engineering,CS,Programming,Critical Thinking,Design,Doctor
+Commerce,CS,Communication,Time Management,Marketing,Architect
+Management,History,Research,Empathy,Design,Marketing Manager
+Arts,Chemistry,Communication,Empathy,Research,Psychologist
+Management,Biology,Analytical Thinking,Time Management,Marketing,UX Designer
+Commerce,Physics,Programming,Time Management,Design,AI Researcher
+Science,Physics,Creativity,Adaptability,Design,Software Engineer
+Arts,History,Teamwork,Adaptability,IT,AI Researcher
+Commerce,Math,Programming,Time Management,Healthcare,Business Analyst
+Commerce,History,Analytical Thinking,Time Management,Education,Lawyer
+Arts,History,Programming,Critical Thinking,IT,Data Scientist
+Computer Science,Biology,Communication,Collaboration,IT,Teacher
+Science,Chemistry,Teamwork,Empathy,Engineering,Robotics Engineer
+Medical,Accounts,Communication,Empathy,Marketing,AI Researcher
+Computer Science,CS,Teamwork,Critical Thinking,Education,Entrepreneur
+Commerce,Economics,Teamwork,Empathy,Education,Entrepreneur
+Arts,Math,Problem Solving,Critical Thinking,Marketing,Business Analyst
+Management,Math,Analytical Thinking,Empathy,Healthcare,Lawyer
+Science,Economics,Problem Solving,Collaboration,Healthcare,Mechanical Engineer
+Engineering,Economics,Problem Solving,Collaboration,Design,Teacher
+Management,Geography,Problem Solving,Collaboration,Marketing,Lawyer
+Management,Physics,Analytical Thinking,Collaboration,IT,Architect
+Management,Geography,Teamwork,Empathy,Research,Psychologist
+Arts,History,Programming,Time Management,IT,Business Analyst
+Medical,Physics,Teamwork,Critical Thinking,Healthcare,Doctor
+Management,Math,Problem Solving,Adaptability,Research,Entrepreneur
+Commerce,Geography,Research,Time Management,Research,Graphic Designer
+Arts,CS,Teamwork,Leadership,Education,Lawyer
+Commerce,Biology,Analytical Thinking,Empathy,Finance,Psychologist
+Computer Science,CS,Programming,Empathy,IT,Data Scientist
+Computer Science,CS,Communication,Leadership,IT,Lawyer
+Arts,Accounts,Research,Empathy,Research,Business Analyst
+Medical,History,Teamwork,Empathy,Marketing,AI Researcher
+Engineering,Biology,Analytical Thinking,Leadership,Healthcare,UX Designer
+Commerce,Physics,Problem Solving,Time Management,Engineering,Business Analyst
+Arts,Economics,Creativity,Leadership,Research,Graphic Designer
+Computer Science,History,Research,Leadership,Finance,Data Scientist
+Management,Accounts,Analytical Thinking,Time Management,IT,Robotics Engineer
+Arts,CS,Communication,Leadership,Healthcare,Teacher
+Medical,Economics,Research,Time Management,Finance,Marketing Manager
+Medical,History,Research,Leadership,Education,Doctor
+Management,CS,Analytical Thinking,Leadership,Engineering,Marketing Manager
+Computer Science,Math,Analytical Thinking,Time Management,IT,Pharmacist
+Science,History,Creativity,Leadership,Engineering,Accountant
+Engineering,Physics,Research,Time Management,Finance,Marketing Manager
+Science,Math,Research,Collaboration,IT,Pharmacist
+Medical,Physics,Problem Solving,Empathy,Education,Data Scientist
+Medical,CS,Teamwork,Critical Thinking,Marketing,Web Developer
+Science,Accounts,Analytical Thinking,Empathy,IT,Psychologist
+Medical,Biology,Communication,Critical Thinking,Education,Psychologist
+Science,CS,Analytical Thinking,Empathy,Marketing,Accountant
+Arts,Economics,Analytical Thinking,Leadership,Design,Robotics Engineer
+Science,Chemistry,Research,Empathy,Research,Doctor
+Engineering,Math,Research,Empathy,Healthcare,Pharmacist
+Science,Chemistry,Research,Critical Thinking,Engineering,Entrepreneur
+Science,Geography,Creativity,Leadership,Finance,Pharmacist
+Medical,Physics,Problem Solving,Adaptability,Engineering,Architect
+Commerce,History,Teamwork,Collaboration,Education,Entrepreneur
+Science,Math,Creativity,Collaboration,Finance,Doctor
+Computer Science,Economics,Programming,Empathy,Design,Investment Banker
+Medical,Chemistry,Communication,Adaptability,Finance,Teacher
+Medical,Biology,Research,Critical Thinking,Marketing,Civil Servant
+Commerce,CS,Analytical Thinking,Time Management,Marketing,Architect
+Science,Biology,Creativity,Empathy,Healthcare,Teacher
+Commerce,Physics,Programming,Time Management,Marketing,Pharmacist
+Science,Economics,Research,Adaptability,Healthcare,Teacher
+Medical,Accounts,Problem Solving,Time Management,Healthcare,Robotics Engineer
+Science,CS,Communication,Empathy,Research,Psychologist
+Arts,Chemistry,Teamwork,Adaptability,Marketing,Software Engineer
+Arts,Math,Programming,Collaboration,Design,Business Analyst
+Medical,CS,Research,Time Management,Engineering,Accountant
+Commerce,Economics,Problem Solving,Empathy,Engineering,Doctor
+Management,Geography,Research,Empathy,Healthcare,Graphic Designer
+Management,Biology,Creativity,Empathy,Finance,Accountant
+Medical,Biology,Analytical Thinking,Leadership,Design,Web Developer
+Commerce,Accounts,Analytical Thinking,Time Management,Healthcare,Graphic Designer
+Computer Science,Geography,Research,Leadership,Finance,AI Researcher
+Science,History,Analytical Thinking,Leadership,Design,Lawyer
+Management,Accounts,Problem Solving,Critical Thinking,Research,AI Researcher
+Commerce,Biology,Analytical Thinking,Critical Thinking,Healthcare,AI Researcher
+Management,Economics,Programming,Collaboration,Finance,Data Scientist
+Engineering,Accounts,Creativity,Collaboration,Healthcare,Web Developer
+Science,History,Programming,Critical Thinking,Design,Marketing Manager
+Science,Economics,Programming,Adaptability,IT,Accountant
+Management,Physics,Communication,Collaboration,Research,Psychologist
+Engineering,Math,Teamwork,Collaboration,Healthcare,Pharmacist
+Arts,Chemistry,Teamwork,Adaptability,Design,Accountant
+Computer Science,Economics,Research,Adaptability,Research,UX Designer
+Management,History,Programming,Time Management,IT,Pharmacist
+Management,Accounts,Programming,Leadership,IT,Web Developer
+Science,Economics,Problem Solving,Adaptability,Marketing,Graphic Designer
+Commerce,Economics,Programming,Critical Thinking,Healthcare,Civil Servant
+Arts,Physics,Analytical Thinking,Leadership,Finance,Lawyer
+Science,Math,Analytical Thinking,Time Management,Design,Architect
+Arts,Physics,Teamwork,Time Management,Engineering,Investment Banker
+Medical,Chemistry,Problem Solving,Critical Thinking,Engineering,Mechanical Engineer
+Commerce,Geography,Analytical Thinking,Empathy,Marketing,UX Designer
+Commerce,Accounts,Research,Critical Thinking,Finance,AI Researcher
+Management,Economics,Communication,Leadership,Finance,Software Engineer
+Computer Science,Biology,Research,Adaptability,Design,Doctor
+Medical,History,Analytical Thinking,Leadership,Research,Teacher
+Medical,Math,Communication,Empathy,IT,Business Analyst
+Science,Economics,Problem Solving,Collaboration,Design,Marketing Manager
+Arts,Physics,Problem Solving,Time Management,Research,AI Researcher
+Science,Chemistry,Communication,Leadership,Healthcare,Psychologist
+Computer Science,Physics,Problem Solving,Collaboration,Research,UX Designer
+Science,Economics,Problem Solving,Time Management,Design,Civil Servant
+Science,CS,Communication,Critical Thinking,Research,Software Engineer
+Engineering,Accounts,Analytical Thinking,Leadership,Engineering,Data Scientist
+Medical,History,Creativity,Empathy,Research,Software Engineer
+Science,Chemistry,Teamwork,Empathy,Education,Architect
+Medical,CS,Analytical Thinking,Empathy,Education,Teacher
+Science,Math,Teamwork,Leadership,Healthcare,Civil Servant
+Commerce,Physics,Research,Empathy,Design,Robotics Engineer
+Engineering,Accounts,Creativity,Leadership,Engineering,Civil Servant
+Management,Math,Analytical Thinking,Leadership,Healthcare,Entrepreneur
+Management,Accounts,Communication,Empathy,IT,Investment Banker
+Arts,Accounts,Problem Solving,Empathy,Engineering,Teacher
+Science,History,Programming,Adaptability,Education,Mechanical Engineer
+Management,History,Analytical Thinking,Leadership,Research,Investment Banker
+Arts,Economics,Problem Solving,Leadership,Design,Investment Banker
+Computer Science,Accounts,Problem Solving,Critical Thinking,Design,Software Engineer
+Computer Science,Biology,Programming,Critical Thinking,Marketing,Teacher
+Science,Chemistry,Creativity,Leadership,Healthcare,Software Engineer
+Arts,Chemistry,Analytical Thinking,Empathy,Engineering,Business Analyst
+Management,Chemistry,Creativity,Collaboration,Engineering,Entrepreneur
+Commerce,Physics,Communication,Collaboration,Engineering,Marketing Manager
+Medical,Accounts,Programming,Critical Thinking,IT,Teacher
+Science,Biology,Teamwork,Critical Thinking,Healthcare,Teacher
+Arts,Geography,Creativity,Critical Thinking,Education,Architect
+Medical,Geography,Teamwork,Collaboration,Healthcare,Software Engineer
+Engineering,Accounts,Research,Critical Thinking,Research,Investment Banker
+Engineering,Economics,Communication,Time Management,Education,Marketing Manager
+Computer Science,History,Research,Collaboration,Design,Lawyer
+Commerce,Physics,Analytical Thinking,Adaptability,Education,Marketing Manager
+Arts,Biology,Teamwork,Leadership,Finance,Pharmacist
+Commerce,History,Communication,Collaboration,Finance,UX Designer
+Engineering,History,Analytical Thinking,Empathy,Marketing,Investment Banker
+Management,Math,Programming,Empathy,Finance,Software Engineer
+Commerce,Economics,Programming,Collaboration,Finance,Lawyer
+Medical,Math,Creativity,Collaboration,Research,Accountant
+Science,Economics,Creativity,Empathy,Design,Business Analyst
+Medical,History,Programming,Time Management,Engineering,Lawyer
+Science,Math,Programming,Time Management,Research,Business Analyst
+Computer Science,Chemistry,Programming,Adaptability,IT,Investment Banker
+Commerce,History,Programming,Adaptability,Engineering,Entrepreneur
+Arts,Biology,Analytical Thinking,Collaboration,IT,Psychologist
+Science,Math,Teamwork,Critical Thinking,Finance,Accountant
+Management,Chemistry,Communication,Time Management,Marketing,Lawyer
+Computer Science,CS,Analytical Thinking,Adaptability,Engineering,Software Engineer
+Arts,Geography,Teamwork,Empathy,Finance,Entrepreneur
+Computer Science,Math,Programming,Empathy,Marketing,Accountant
+Medical,Biology,Analytical Thinking,Collaboration,Education,Software Engineer
+Medical,Chemistry,Teamwork,Empathy,IT,Business Analyst
+Medical,CS,Creativity,Critical Thinking,Design,Marketing Manager
+Arts,History,Programming,Time Management,Research,Civil Servant
+Management,Economics,Communication,Leadership,IT,Doctor
+Engineering,Biology,Analytical Thinking,Leadership,Healthcare,Pharmacist
+Management,History,Communication,Time Management,Education,Psychologist
+Management,Math,Teamwork,Leadership,Healthcare,Entrepreneur
+Engineering,Biology,Teamwork,Collaboration,Healthcare,Software Engineer
+Commerce,Math,Analytical Thinking,Critical Thinking,Design,Civil Servant
+Computer Science,Biology,Communication,Collaboration,Design,AI Researcher
+Arts,Geography,Problem Solving,Adaptability,IT,AI Researcher
+Medical,History,Communication,Adaptability,Engineering,Mechanical Engineer
+Engineering,Geography,Research,Adaptability,Research,Accountant
+Management,Economics,Creativity,Empathy,Engineering,Entrepreneur
+Engineering,Economics,Problem Solving,Empathy,Education,Software Engineer
+Arts,Physics,Programming,Leadership,Finance,Robotics Engineer
+Science,History,Analytical Thinking,Leadership,Engineering,Entrepreneur
+Computer Science,Biology,Creativity,Collaboration,Finance,Pharmacist
+Arts,Geography,Communication,Empathy,Finance,Lawyer
+Computer Science,Geography,Analytical Thinking,Collaboration,Finance,Data Scientist
+Engineering,Biology,Programming,Collaboration,Research,Software Engineer
+Medical,Accounts,Analytical Thinking,Adaptability,Engineering,Psychologist
+Arts,Biology,Communication,Time Management,IT,UX Designer
+Arts,Geography,Creativity,Leadership,Research,Accountant
+Science,CS,Analytical Thinking,Adaptability,Finance,Mechanical Engineer
+Arts,Economics,Communication,Adaptability,Research,Lawyer
+Arts,Geography,Analytical Thinking,Empathy,Research,Architect
+Engineering,Biology,Communication,Leadership,IT,Web Developer
+Commerce,Accounts,Teamwork,Time Management,Marketing,Marketing Manager
+Medical,Geography,Programming,Adaptability,Finance,Mechanical Engineer
+Arts,Physics,Creativity,Empathy,Education,Doctor
+Science,Geography,Creativity,Leadership,Finance,Web Developer
+Commerce,Math,Teamwork,Time Management,Education,Marketing Manager
+Commerce,Chemistry,Teamwork,Adaptability,Research,Data Scientist
+Science,Accounts,Problem Solving,Collaboration,Education,Software Engineer
+Management,History,Problem Solving,Collaboration,IT,Doctor
+Management,Math,Programming,Adaptability,Education,Web Developer
+Arts,Chemistry,Research,Critical Thinking,Engineering,Investment Banker
+Science,Economics,Teamwork,Time Management,Design,Data Scientist
+Computer Science,Economics,Problem Solving,Adaptability,Finance,Web Developer
+Medical,Chemistry,Teamwork,Collaboration,Research,Investment Banker
+Science,History,Creativity,Time Management,Research,Pharmacist
+Management,Geography,Communication,Empathy,Marketing,Architect
+Science,Biology,Analytical Thinking,Critical Thinking,Marketing,Lawyer
+Management,CS,Creativity,Collaboration,Education,Architect
+Medical,Economics,Creativity,Collaboration,Marketing,AI Researcher
+Medical,Biology,Problem Solving,Collaboration,Finance,Architect
+Management,Accounts,Analytical Thinking,Collaboration,Healthcare,Marketing Manager
+Medical,Economics,Analytical Thinking,Time Management,Education,Business Analyst
+Arts,History,Communication,Critical Thinking,Engineering,Civil Servant
+Arts,Chemistry,Analytical Thinking,Adaptability,IT,Pharmacist
+Management,History,Programming,Adaptability,Engineering,Entrepreneur
+Computer Science,CS,Analytical Thinking,Time Management,Marketing,Mechanical Engineer
+Commerce,Physics,Programming,Collaboration,Research,Web Developer
+Computer Science,CS,Problem Solving,Leadership,Research,Pharmacist
+Computer Science,Math,Analytical Thinking,Collaboration,IT,Architect
+Arts,Math,Teamwork,Time Management,Finance,Robotics Engineer
+Management,CS,Research,Empathy,Marketing,Teacher
+Medical,Physics,Problem Solving,Critical Thinking,IT,Investment Banker
+Arts,Accounts,Creativity,Adaptability,IT,Robotics Engineer
+Science,Economics,Analytical Thinking,Adaptability,Marketing,Business Analyst
+Engineering,Economics,Creativity,Time Management,Healthcare,Doctor
+Management,CS,Problem Solving,Empathy,Healthcare,Mechanical Engineer
+Commerce,Accounts,Analytical Thinking,Collaboration,Healthcare,Entrepreneur
+Engineering,Geography,Creativity,Time Management,Finance,AI Researcher
+Commerce,Physics,Teamwork,Critical Thinking,Healthcare,Entrepreneur
+Medical,Biology,Communication,Critical Thinking,Research,Software Engineer
+Medical,Biology,Creativity,Collaboration,IT,Pharmacist
+Commerce,Economics,Problem Solving,Adaptability,Healthcare,Pharmacist
+Management,Biology,Programming,Collaboration,Healthcare,Architect
+Engineering,Geography,Teamwork,Leadership,IT,Entrepreneur
+Commerce,Physics,Communication,Time Management,Healthcare,Psychologist
+Computer Science,Biology,Creativity,Empathy,Marketing,Robotics Engineer
+Medical,Physics,Communication,Collaboration,Marketing,Business Analyst
+Medical,Math,Teamwork,Adaptability,Design,Software Engineer
+Computer Science,History,Analytical Thinking,Critical Thinking,Finance,Civil Servant
+Science,Physics,Research,Time Management,Finance,Pharmacist
+Management,Chemistry,Teamwork,Critical Thinking,Engineering,Psychologist
+Science,Physics,Research,Critical Thinking,Design,Civil Servant
+Commerce,History,Communication,Critical Thinking,Research,AI Researcher
+Computer Science,Math,Creativity,Time Management,Marketing,Doctor
+Commerce,CS,Communication,Empathy,Engineering,Investment Banker
+Engineering,Biology,Communication,Leadership,Research,AI Researcher
+Engineering,Economics,Communication,Leadership,Healthcare,Pharmacist
+Science,Geography,Analytical Thinking,Critical Thinking,Marketing,Software Engineer
+Computer Science,CS,Communication,Time Management,Engineering,Entrepreneur
+Computer Science,Chemistry,Communication,Adaptability,IT,Investment Banker
+Arts,Biology,Problem Solving,Time Management,Marketing,Pharmacist
+Management,Physics,Communication,Leadership,IT,Robotics Engineer
+Medical,Geography,Programming,Time Management,Healthcare,Entrepreneur
+Management,Chemistry,Analytical Thinking,Adaptability,Marketing,Accountant
+Science,Physics,Communication,Collaboration,Healthcare,Software Engineer
+Arts,Economics,Creativity,Collaboration,Healthcare,Web Developer
+Computer Science,Physics,Programming,Collaboration,Design,Robotics Engineer
+Medical,Economics,Communication,Empathy,Research,Mechanical Engineer
+Medical,Math,Analytical Thinking,Empathy,Marketing,Doctor
+Engineering,History,Programming,Collaboration,Design,Architect
+Science,History,Programming,Critical Thinking,Research,Marketing Manager
+Arts,Math,Communication,Adaptability,Research,Entrepreneur
+Computer Science,Biology,Problem Solving,Adaptability,Finance,AI Researcher
+Computer Science,Geography,Communication,Critical Thinking,Finance,Doctor
+Computer Science,Physics,Analytical Thinking,Collaboration,Engineering,Lawyer
+Arts,Economics,Programming,Time Management,Design,Business Analyst
+Commerce,Chemistry,Problem Solving,Empathy,Research,Robotics Engineer
+Science,Economics,Programming,Empathy,Finance,Web Developer
+Science,Chemistry,Communication,Collaboration,Finance,Web Developer
+Engineering,Geography,Research,Time Management,Healthcare,Architect
+Engineering,Chemistry,Creativity,Time Management,Healthcare,Web Developer
+Management,CS,Communication,Time Management,Marketing,Marketing Manager
+Medical,Economics,Analytical Thinking,Leadership,Finance,Investment Banker
+Medical,Biology,Programming,Empathy,Engineering,Graphic Designer
+Medical,Math,Problem Solving,Time Management,Finance,Teacher
+Engineering,Economics,Communication,Collaboration,Engineering,Data Scientist
+Management,CS,Research,Critical Thinking,Healthcare,Lawyer
+Commerce,Chemistry,Teamwork,Critical Thinking,Marketing,Robotics Engineer
+Arts,Physics,Analytical Thinking,Adaptability,Finance,Mechanical Engineer
+Arts,Economics,Communication,Leadership,IT,AI Researcher
+Arts,CS,Programming,Empathy,Finance,Robotics Engineer
+Medical,History,Communication,Empathy,Education,Doctor
+Science,Geography,Analytical Thinking,Critical Thinking,Design,Software Engineer
+Medical,Math,Programming,Empathy,Engineering,Robotics Engineer
+Medical,Chemistry,Teamwork,Critical Thinking,IT,Software Engineer
+Computer Science,Physics,Research,Collaboration,Finance,UX Designer
+Arts,Math,Problem Solving,Collaboration,Design,Web Developer
+Medical,Economics,Programming,Adaptability,Design,Software Engineer
+Engineering,History,Problem Solving,Empathy,Healthcare,Web Developer
+Arts,Economics,Creativity,Critical Thinking,Education,AI Researcher
+Management,Math,Programming,Leadership,Healthcare,Civil Servant
+Management,Biology,Creativity,Leadership,IT,Software Engineer
+Arts,Chemistry,Programming,Adaptability,Education,Graphic Designer
+Computer Science,Physics,Creativity,Critical Thinking,Education,Pharmacist
+Medical,Geography,Research,Collaboration,Research,Graphic Designer
+Commerce,Physics,Communication,Critical Thinking,Research,Graphic Designer
+Computer Science,CS,Creativity,Empathy,Marketing,Investment Banker
+Arts,Accounts,Problem Solving,Adaptability,Design,Doctor
+Medical,History,Programming,Leadership,IT,UX Designer
+Arts,Biology,Programming,Collaboration,Engineering,Business Analyst
+Computer Science,Physics,Programming,Empathy,Education,AI Researcher
+Computer Science,History,Research,Empathy,Research,Robotics Engineer
+Arts,Biology,Teamwork,Empathy,Healthcare,Lawyer
+Management,Economics,Problem Solving,Collaboration,Healthcare,Marketing Manager
+Engineering,Geography,Problem Solving,Adaptability,Finance,Business Analyst
+Commerce,Biology,Teamwork,Critical Thinking,Education,Architect
+Arts,History,Creativity,Leadership,Finance,Entrepreneur
+Engineering,Biology,Creativity,Adaptability,Education,Mechanical Engineer
+Arts,Physics,Creativity,Empathy,IT,Lawyer
+Medical,Accounts,Analytical Thinking,Critical Thinking,Marketing,Web Developer
+Engineering,Chemistry,Programming,Critical Thinking,Research,Graphic Designer
+Medical,CS,Teamwork,Critical Thinking,Engineering,Architect
+Medical,Physics,Research,Leadership,Finance,Data Scientist
+Science,Biology,Analytical Thinking,Collaboration,Healthcare,Architect
+Engineering,Accounts,Research,Collaboration,Marketing,Civil Servant
+Commerce,History,Creativity,Leadership,IT,UX Designer
+Computer Science,Accounts,Research,Leadership,Research,Lawyer
+Commerce,Geography,Communication,Leadership,Design,Investment Banker
+Commerce,Economics,Programming,Empathy,Design,Business Analyst
+Management,Biology,Analytical Thinking,Leadership,Finance,Entrepreneur
+Medical,Economics,Programming,Collaboration,Research,Business Analyst
+Management,Geography,Teamwork,Leadership,Healthcare,Robotics Engineer
+Arts,Physics,Analytical Thinking,Critical Thinking,Finance,Investment Banker
+Medical,History,Analytical Thinking,Adaptability,Education,UX Designer
+Science,Geography,Research,Adaptability,Research,Accountant
+Science,Math,Creativity,Adaptability,Design,Teacher
+Engineering,Chemistry,Teamwork,Critical Thinking,Design,Entrepreneur
+Commerce,History,Creativity,Time Management,Engineering,Teacher
+Commerce,History,Communication,Adaptability,Research,Teacher
+Arts,Physics,Analytical Thinking,Empathy,Healthcare,Business Analyst
+Medical,Physics,Programming,Empathy,Engineering,Robotics Engineer
+Computer Science,Physics,Problem Solving,Adaptability,Research,Accountant
+Science,Math,Problem Solving,Adaptability,Education,Graphic Designer
+Commerce,Math,Communication,Collaboration,Marketing,AI Researcher
+Arts,CS,Programming,Critical Thinking,Marketing,AI Researcher
+Engineering,Chemistry,Analytical Thinking,Time Management,IT,Doctor
+Management,Physics,Communication,Time Management,Research,Robotics Engineer
+Computer Science,Geography,Problem Solving,Critical Thinking,Design,Business Analyst
+Medical,History,Creativity,Leadership,Healthcare,AI Researcher
+Commerce,Economics,Communication,Leadership,IT,Mechanical Engineer
+Commerce,CS,Communication,Adaptability,Design,Web Developer
+Management,CS,Communication,Adaptability,Finance,Marketing Manager
+Management,History,Creativity,Collaboration,Education,Pharmacist
+Medical,Chemistry,Programming,Critical Thinking,Finance,Graphic Designer
+Engineering,Accounts,Research,Adaptability,Education,Data Scientist
+Medical,Accounts,Problem Solving,Leadership,Marketing,Marketing Manager
+Computer Science,History,Teamwork,Time Management,Engineering,Doctor
+Engineering,Chemistry,Programming,Time Management,Engineering,Robotics Engineer
+Engineering,Physics,Analytical Thinking,Collaboration,Research,Data Scientist
+Arts,Geography,Programming,Collaboration,Research,Psychologist
+Engineering,CS,Programming,Leadership,Healthcare,Architect
+Commerce,CS,Creativity,Time Management,IT,Marketing Manager
+Science,CS,Teamwork,Leadership,Design,Robotics Engineer
+Management,Chemistry,Analytical Thinking,Empathy,Finance,Marketing Manager
+Arts,Math,Research,Critical Thinking,Finance,Civil Servant
+Computer Science,CS,Programming,Critical Thinking,Finance,Teacher
+Commerce,History,Teamwork,Empathy,Research,Graphic Designer
+Science,Math,Problem Solving,Critical Thinking,Healthcare,Mechanical Engineer
+Engineering,Biology,Programming,Collaboration,Research,Robotics Engineer
+Arts,CS,Creativity,Leadership,Finance,Entrepreneur
+Management,Geography,Creativity,Critical Thinking,Research,Software Engineer
+Management,CS,Analytical Thinking,Adaptability,Engineering,Software Engineer
+Engineering,Math,Programming,Empathy,Marketing,Accountant
+Management,Biology,Problem Solving,Critical Thinking,Finance,Web Developer
+Commerce,Biology,Programming,Empathy,IT,Entrepreneur
+Computer Science,Physics,Creativity,Time Management,Healthcare,Entrepreneur
+Management,Math,Problem Solving,Adaptability,IT,Graphic Designer
+Computer Science,Chemistry,Teamwork,Leadership,Engineering,Accountant
+Engineering,CS,Teamwork,Critical Thinking,IT,Lawyer
+Science,Economics,Programming,Collaboration,IT,Architect
+Arts,CS,Analytical Thinking,Critical Thinking,Engineering,Accountant
+Management,CS,Problem Solving,Critical Thinking,Healthcare,Civil Servant
+Management,Chemistry,Programming,Adaptability,Finance,UX Designer
+Arts,Physics,Programming,Time Management,Design,Investment Banker
+Arts,Accounts,Creativity,Time Management,Research,Mechanical Engineer
+Science,Geography,Programming,Empathy,Healthcare,Architect
+Arts,Math,Creativity,Collaboration,Education,Entrepreneur
+Engineering,Economics,Analytical Thinking,Critical Thinking,Engineering,Civil Servant
+Medical,History,Creativity,Collaboration,Marketing,Psychologist
+Medical,Chemistry,Teamwork,Leadership,Research,Marketing Manager
+Management,Math,Research,Time Management,Engineering,Pharmacist
+Management,Geography,Programming,Adaptability,Marketing,Teacher
+Science,CS,Analytical Thinking,Leadership,Finance,Graphic Designer
+Engineering,Accounts,Teamwork,Empathy,Design,Data Scientist
+Arts,Biology,Creativity,Time Management,Research,Civil Servant
+Medical,CS,Creativity,Time Management,Healthcare,Psychologist
+Arts,Physics,Communication,Adaptability,Education,Software Engineer
+Computer Science,Geography,Programming,Empathy,Education,Robotics Engineer
+Computer Science,History,Creativity,Time Management,Research,Software Engineer
+Computer Science,Chemistry,Teamwork,Leadership,Research,UX Designer
+Engineering,Biology,Problem Solving,Time Management,Engineering,Psychologist
+Medical,Accounts,Creativity,Critical Thinking,Finance,Data Scientist
+Computer Science,Math,Problem Solving,Leadership,Healthcare,Web Developer
+Medical,Accounts,Creativity,Empathy,Finance,Psychologist
+Management,Chemistry,Teamwork,Leadership,Finance,Marketing Manager
+Medical,Physics,Analytical Thinking,Empathy,Marketing,UX Designer
+Engineering,CS,Problem Solving,Adaptability,Design,Data Scientist
+Management,Accounts,Research,Empathy,Education,Civil Servant
+Management,Geography,Research,Leadership,Design,Psychologist
+Medical,Accounts,Research,Leadership,Research,Psychologist
+Commerce,Biology,Creativity,Adaptability,Design,Entrepreneur
+Commerce,Physics,Problem Solving,Adaptability,IT,Software Engineer
+Commerce,Accounts,Research,Time Management,Education,Robotics Engineer
+Science,Geography,Communication,Critical Thinking,Research,Data Scientist
+Arts,Math,Creativity,Leadership,Marketing,Business Analyst
+Computer Science,Biology,Communication,Critical Thinking,Engineering,UX Designer
+Medical,Economics,Teamwork,Empathy,Education,Entrepreneur
+Management,Biology,Communication,Empathy,Design,Software Engineer
+Science,Geography,Creativity,Adaptability,Finance,Pharmacist
+Management,Accounts,Problem Solving,Leadership,IT,Entrepreneur
+Commerce,Biology,Communication,Adaptability,Research,Investment Banker
+Medical,Math,Teamwork,Empathy,Research,Robotics Engineer
+Medical,CS,Creativity,Collaboration,IT,Pharmacist
+Medical,Physics,Teamwork,Time Management,Engineering,Civil Servant
+Arts,CS,Teamwork,Adaptability,Research,UX Designer
+Management,Chemistry,Programming,Critical Thinking,Engineering,Pharmacist
+Management,CS,Communication,Critical Thinking,Design,UX Designer
+Commerce,Accounts,Communication,Adaptability,Education,Accountant
+Management,Accounts,Communication,Collaboration,Marketing,Psychologist
+Commerce,Chemistry,Analytical Thinking,Critical Thinking,Healthcare,Psychologist
+Management,Biology,Analytical Thinking,Critical Thinking,Healthcare,AI Researcher
+Arts,Math,Analytical Thinking,Critical Thinking,Marketing,Architect
+Medical,Accounts,Programming,Time Management,IT,Mechanical Engineer
+Management,Physics,Teamwork,Critical Thinking,Engineering,Entrepreneur
+Commerce,Economics,Creativity,Leadership,Engineering,Mechanical Engineer
+Science,History,Communication,Empathy,Research,Mechanical Engineer
+Medical,Biology,Programming,Critical Thinking,Healthcare,Doctor
+Computer Science,Math,Problem Solving,Adaptability,Marketing,Accountant
+Management,History,Creativity,Adaptability,Finance,Architect
+Management,Biology,Programming,Leadership,IT,Entrepreneur
+Management,Biology,Teamwork,Collaboration,Engineering,Investment Banker
+Engineering,Physics,Communication,Empathy,Research,Doctor
+Computer Science,Geography,Creativity,Empathy,Marketing,Accountant
+Medical,CS,Analytical Thinking,Critical Thinking,Design,Lawyer
+Commerce,Economics,Creativity,Empathy,Finance,Doctor
+Arts,Biology,Communication,Leadership,IT,Data Scientist
+Commerce,Chemistry,Analytical Thinking,Adaptability,IT,Robotics Engineer
+Management,CS,Communication,Empathy,Engineering,Software Engineer
+Arts,CS,Teamwork,Time Management,Research,Web Developer
+Computer Science,Math,Creativity,Adaptability,Research,Civil Servant
+Medical,Biology,Research,Critical Thinking,Marketing,Data Scientist
+Science,Accounts,Analytical Thinking,Time Management,Education,Data Scientist
+Computer Science,Geography,Problem Solving,Adaptability,Marketing,Software Engineer
+Commerce,Accounts,Programming,Time Management,Design,Lawyer
+Medical,CS,Communication,Time Management,Healthcare,Web Developer
+Management,Chemistry,Research,Empathy,Research,Lawyer
+Computer Science,History,Creativity,Critical Thinking,Marketing,Entrepreneur
+Engineering,Physics,Creativity,Adaptability,Engineering,Web Developer
+Engineering,Chemistry,Research,Critical Thinking,Engineering,Lawyer
+Engineering,CS,Research,Adaptability,Healthcare,Business Analyst
+Engineering,Chemistry,Creativity,Adaptability,Healthcare,Lawyer
+Management,History,Creativity,Critical Thinking,IT,Graphic Designer
+Commerce,Geography,Programming,Leadership,Education,Pharmacist
+Medical,CS,Programming,Empathy,Design,Investment Banker
+Arts,History,Communication,Critical Thinking,Healthcare,Web Developer
+Computer Science,CS,Problem Solving,Collaboration,Healthcare,Investment Banker
+Management,Math,Programming,Leadership,IT,Business Analyst
+Engineering,Economics,Analytical Thinking,Time Management,Finance,Entrepreneur
+Commerce,History,Analytical Thinking,Leadership,Marketing,Data Scientist
+Commerce,Economics,Problem Solving,Time Management,IT,Business Analyst
+Arts,Chemistry,Problem Solving,Critical Thinking,Engineering,Civil Servant
+Medical,Chemistry,Programming,Empathy,Finance,Robotics Engineer
+Arts,Biology,Analytical Thinking,Collaboration,Finance,Marketing Manager
+Commerce,History,Teamwork,Leadership,Design,Teacher
+Arts,Math,Communication,Critical Thinking,Education,Architect
+Science,Chemistry,Problem Solving,Empathy,Engineering,Pharmacist
+Commerce,Economics,Problem Solving,Time Management,Finance,Lawyer
+Medical,Biology,Research,Leadership,Marketing,Business Analyst
+Science,History,Creativity,Collaboration,Engineering,Data Scientist
+Computer Science,Biology,Research,Collaboration,Engineering,UX Designer
+Science,Accounts,Problem Solving,Collaboration,Research,Civil Servant
+Medical,Physics,Communication,Adaptability,Marketing,Psychologist
+Management,Economics,Problem Solving,Critical Thinking,Design,Web Developer
+Science,Physics,Communication,Collaboration,Research,Software Engineer
+Computer Science,Physics,Communication,Adaptability,Engineering,Software Engineer
+Computer Science,Economics,Programming,Leadership,Healthcare,Doctor
+Science,Economics,Communication,Empathy,Finance,Pharmacist
+Engineering,Economics,Teamwork,Collaboration,Healthcare,Mechanical Engineer
+Management,Math,Creativity,Empathy,Healthcare,Web Developer
+Medical,CS,Creativity,Collaboration,Research,UX Designer
+Management,History,Teamwork,Empathy,Finance,Robotics Engineer
+Commerce,CS,Research,Collaboration,Design,Lawyer
+Science,Chemistry,Creativity,Adaptability,Research,Architect
+Medical,Economics,Programming,Empathy,Marketing,Architect
+Medical,History,Analytical Thinking,Critical Thinking,Research,Doctor
+Medical,History,Research,Empathy,Engineering,Business Analyst
+Engineering,Biology,Teamwork,Critical Thinking,Finance,Accountant
+Medical,Biology,Programming,Critical Thinking,Finance,Marketing Manager
+Science,Chemistry,Programming,Collaboration,IT,AI Researcher
+Medical,History,Creativity,Critical Thinking,Design,Business Analyst
+Science,History,Creativity,Collaboration,Finance,Teacher
+Engineering,Accounts,Research,Critical Thinking,Engineering,Graphic Designer
+Commerce,Geography,Programming,Adaptability,Healthcare,Software Engineer
+Engineering,Chemistry,Analytical Thinking,Adaptability,Finance,Teacher
+Management,History,Creativity,Leadership,Marketing,Entrepreneur
+Commerce,CS,Research,Collaboration,Healthcare,Robotics Engineer
+Engineering,Chemistry,Creativity,Empathy,Engineering,Software Engineer
+Science,Chemistry,Teamwork,Adaptability,Healthcare,Doctor
+Science,Geography,Creativity,Adaptability,Healthcare,Entrepreneur
+Computer Science,Physics,Creativity,Empathy,IT,Pharmacist
+Management,History,Analytical Thinking,Collaboration,Education,Investment Banker
+Computer Science,History,Research,Time Management,Research,Lawyer
+Arts,Physics,Analytical Thinking,Empathy,Finance,UX Designer
+Science,Accounts,Problem Solving,Leadership,Design,Marketing Manager
+Medical,Economics,Creativity,Empathy,Research,UX Designer
+Management,History,Analytical Thinking,Adaptability,Healthcare,Data Scientist
+Engineering,Physics,Problem Solving,Empathy,Healthcare,Architect
+Management,Chemistry,Communication,Critical Thinking,Marketing,Robotics Engineer
+Medical,Physics,Programming,Collaboration,Education,Graphic Designer
+Science,CS,Teamwork,Adaptability,Engineering,Business Analyst
+Engineering,Economics,Programming,Critical Thinking,Research,Data Scientist
+Computer Science,Chemistry,Creativity,Critical Thinking,Design,Accountant
+Engineering,Math,Problem Solving,Empathy,Engineering,Teacher
+Management,Physics,Creativity,Time Management,IT,AI Researcher
+Commerce,History,Communication,Empathy,Design,Software Engineer
+Science,Economics,Programming,Empathy,Research,Software Engineer
+Science,CS,Creativity,Time Management,Marketing,Teacher
+Computer Science,Physics,Problem Solving,Critical Thinking,Design,Teacher
+Commerce,Physics,Teamwork,Empathy,Healthcare,Web Developer
+Arts,Accounts,Research,Time Management,Healthcare,Accountant
+Computer Science,CS,Problem Solving,Empathy,Marketing,Architect
+Arts,History,Problem Solving,Time Management,Design,Marketing Manager
+Management,Biology,Programming,Leadership,Finance,Investment Banker
+Arts,Physics,Research,Leadership,IT,Data Scientist
+Management,Chemistry,Communication,Adaptability,Engineering,Graphic Designer
+Computer Science,Chemistry,Problem Solving,Empathy,IT,AI Researcher
+Commerce,CS,Research,Empathy,Finance,Doctor
+Engineering,Geography,Programming,Empathy,Research,Civil Servant
+Computer Science,Physics,Analytical Thinking,Time Management,Healthcare,Teacher
+Medical,Math,Teamwork,Leadership,Marketing,Accountant
+Science,Math,Teamwork,Empathy,Engineering,UX Designer
+Engineering,Geography,Teamwork,Collaboration,Research,Robotics Engineer
+Computer Science,Chemistry,Analytical Thinking,Leadership,Engineering,Civil Servant
+Commerce,Biology,Creativity,Time Management,Finance,Entrepreneur
+Commerce,Biology,Communication,Critical Thinking,IT,Psychologist
+Management,Chemistry,Research,Time Management,Education,AI Researcher
+Science,Physics,Analytical Thinking,Leadership,IT,Civil Servant
+Computer Science,Economics,Creativity,Critical Thinking,Finance,Software Engineer
+Medical,Chemistry,Teamwork,Empathy,Finance,Software Engineer
+Arts,Physics,Problem Solving,Time Management,Healthcare,Web Developer
+Management,CS,Teamwork,Adaptability,Education,Doctor
+Management,Physics,Communication,Critical Thinking,Healthcare,Software Engineer
+Computer Science,CS,Communication,Collaboration,Healthcare,Business Analyst
+Engineering,Physics,Programming,Time Management,Education,Accountant
+Arts,Chemistry,Research,Critical Thinking,Education,Mechanical Engineer
+Medical,CS,Creativity,Adaptability,Healthcare,Mechanical Engineer
+Arts,Chemistry,Analytical Thinking,Empathy,Education,Mechanical Engineer
+Engineering,Biology,Analytical Thinking,Time Management,IT,Architect
+Medical,Math,Creativity,Time Management,Healthcare,Marketing Manager
+Arts,History,Programming,Critical Thinking,Research,AI Researcher
+Commerce,Physics,Teamwork,Empathy,Engineering,Lawyer
+Medical,Biology,Analytical Thinking,Adaptability,Finance,Civil Servant
+Science,Chemistry,Analytical Thinking,Critical Thinking,Healthcare,AI Researcher
+Engineering,Accounts,Creativity,Adaptability,IT,Entrepreneur
+Computer Science,Physics,Creativity,Time Management,Education,Teacher
+Medical,Biology,Communication,Leadership,Research,Mechanical Engineer
+Engineering,Biology,Creativity,Empathy,IT,Doctor
+Arts,Biology,Communication,Empathy,IT,Accountant
+Arts,Economics,Research,Collaboration,IT,Doctor
+Engineering,Economics,Problem Solving,Time Management,IT,Architect
+Computer Science,Math,Problem Solving,Critical Thinking,Marketing,Teacher
+Computer Science,Chemistry,Research,Leadership,Design,Investment Banker
+Science,Economics,Problem Solving,Leadership,Marketing,Mechanical Engineer
+Computer Science,Biology,Research,Empathy,Research,AI Researcher
+Management,Biology,Teamwork,Adaptability,Engineering,Robotics Engineer
+Science,Math,Analytical Thinking,Collaboration,Research,Accountant
+Commerce,Chemistry,Teamwork,Collaboration,Finance,Marketing Manager
+Management,Chemistry,Teamwork,Adaptability,Education,Doctor
+Commerce,Chemistry,Programming,Leadership,Research,Robotics Engineer
+Science,Chemistry,Teamwork,Critical Thinking,Marketing,Architect
+Management,Biology,Communication,Time Management,Finance,Data Scientist
+Arts,Accounts,Communication,Leadership,Engineering,Robotics Engineer
+Science,Physics,Teamwork,Adaptability,IT,AI Researcher
+Engineering,Math,Research,Collaboration,Education,Psychologist
+Medical,Chemistry,Creativity,Empathy,Marketing,Doctor
+Science,CS,Problem Solving,Leadership,Education,UX Designer
+Arts,History,Analytical Thinking,Collaboration,Marketing,AI Researcher
+Arts,Geography,Creativity,Empathy,Engineering,Accountant
+Science,Economics,Teamwork,Adaptability,Design,Data Scientist
+Science,Physics,Programming,Time Management,Design,Lawyer
+Arts,Math,Programming,Collaboration,Education,Doctor
+Computer Science,CS,Problem Solving,Critical Thinking,Research,Robotics Engineer
+Computer Science,Biology,Programming,Collaboration,Marketing,Data Scientist
+Science,Chemistry,Problem Solving,Critical Thinking,Research,Psychologist
+Science,CS,Teamwork,Adaptability,Marketing,Robotics Engineer
+Arts,Accounts,Teamwork,Collaboration,Finance,Software Engineer
+Arts,History,Creativity,Empathy,IT,UX Designer
+Computer Science,Economics,Problem Solving,Critical Thinking,Finance,Robotics Engineer
+Commerce,Physics,Programming,Collaboration,IT,Psychologist
+Medical,Accounts,Research,Adaptability,Marketing,Mechanical Engineer
+Management,CS,Analytical Thinking,Leadership,Marketing,Pharmacist
+Science,Economics,Programming,Adaptability,Marketing,UX Designer
+Medical,Math,Creativity,Empathy,Design,AI Researcher
+Science,Physics,Creativity,Time Management,Healthcare,Accountant
+Commerce,Chemistry,Communication,Leadership,Research,Investment Banker
+Arts,Chemistry,Creativity,Collaboration,Finance,Robotics Engineer
+Engineering,Accounts,Creativity,Leadership,Design,Pharmacist
+Science,Physics,Creativity,Collaboration,Engineering,UX Designer
+Engineering,History,Communication,Collaboration,Finance,Architect
+Commerce,Accounts,Creativity,Collaboration,IT,UX Designer
+Arts,Math,Communication,Empathy,Design,Teacher
+Commerce,Economics,Analytical Thinking,Critical Thinking,Finance,Civil Servant
+Management,History,Teamwork,Empathy,Research,Mechanical Engineer
+Medical,Math,Teamwork,Collaboration,Education,AI Researcher
+Engineering,Geography,Creativity,Collaboration,IT,Investment Banker
+Science,CS,Creativity,Adaptability,Education,Accountant
+Commerce,Geography,Teamwork,Empathy,Finance,Business Analyst
+Commerce,Physics,Communication,Leadership,IT,Marketing Manager
+Engineering,History,Analytical Thinking,Time Management,Design,Accountant
+Computer Science,Biology,Research,Adaptability,Engineering,Entrepreneur
+Commerce,Math,Analytical Thinking,Empathy,Research,Robotics Engineer
+Arts,Math,Problem Solving,Critical Thinking,Engineering,Marketing Manager
+Engineering,Biology,Creativity,Collaboration,Marketing,Lawyer
+Science,Chemistry,Programming,Critical Thinking,IT,Doctor
+Management,Economics,Problem Solving,Empathy,Design,Business Analyst
+Science,CS,Teamwork,Adaptability,Finance,Architect
+Engineering,Math,Research,Adaptability,Healthcare,Mechanical Engineer
+Medical,Biology,Programming,Empathy,Education,Psychologist
+Arts,Accounts,Analytical Thinking,Critical Thinking,Design,AI Researcher
+Engineering,Economics,Teamwork,Adaptability,Design,Business Analyst
+Medical,Economics,Teamwork,Critical Thinking,Healthcare,Marketing Manager
+Arts,CS,Creativity,Adaptability,Design,Pharmacist
+Management,Economics,Analytical Thinking,Critical Thinking,Marketing,Doctor
+Medical,CS,Teamwork,Critical Thinking,Design,Entrepreneur
+Medical,Physics,Programming,Empathy,Research,Accountant
+Management,Geography,Communication,Empathy,Education,Software Engineer
+Arts,Math,Teamwork,Collaboration,Healthcare,Civil Servant
+Engineering,Geography,Programming,Time Management,Engineering,Architect
+Science,Economics,Programming,Adaptability,Education,UX Designer
+Computer Science,Math,Programming,Critical Thinking,Healthcare,Graphic Designer
+Computer Science,Geography,Research,Critical Thinking,Marketing,Entrepreneur
+Commerce,Biology,Creativity,Adaptability,Finance,Architect
+Arts,Biology,Problem Solving,Adaptability,Marketing,Teacher
+Management,Chemistry,Communication,Empathy,Marketing,Lawyer
+Science,History,Analytical Thinking,Critical Thinking,Healthcare,Graphic Designer
+Computer Science,Chemistry,Research,Adaptability,Engineering,Accountant
+Engineering,History,Analytical Thinking,Critical Thinking,Engineering,Software Engineer
+Commerce,Biology,Programming,Critical Thinking,Design,Marketing Manager
+Engineering,History,Creativity,Empathy,Education,Civil Servant
+Arts,Accounts,Communication,Empathy,Finance,Robotics Engineer
+Computer Science,Chemistry,Problem Solving,Time Management,Design,AI Researcher
+Management,CS,Teamwork,Collaboration,Engineering,Pharmacist
+Engineering,Physics,Communication,Collaboration,Healthcare,Doctor
+Computer Science,Physics,Creativity,Time Management,Education,Pharmacist
+Science,Biology,Problem Solving,Collaboration,Healthcare,Software Engineer
+Science,History,Research,Empathy,Finance,UX Designer
+Computer Science,CS,Teamwork,Critical Thinking,Healthcare,AI Researcher
+Commerce,CS,Teamwork,Time Management,Healthcare,AI Researcher
+Science,Accounts,Communication,Collaboration,Design,AI Researcher
+Science,Math,Problem Solving,Adaptability,Healthcare,Mechanical Engineer
+Medical,Accounts,Programming,Empathy,Engineering,Psychologist
+Engineering,History,Communication,Empathy,Design,Lawyer
+Science,Economics,Problem Solving,Critical Thinking,IT,Business Analyst
+Management,Geography,Creativity,Empathy,Design,AI Researcher
+Arts,Math,Analytical Thinking,Adaptability,Design,Business Analyst
+Engineering,Geography,Creativity,Collaboration,Research,Civil Servant
+Engineering,Accounts,Creativity,Empathy,Engineering,Business Analyst
+Arts,Geography,Creativity,Collaboration,Marketing,Software Engineer
+Computer Science,Physics,Research,Leadership,Finance,Investment Banker
+Science,Economics,Analytical Thinking,Adaptability,Design,Investment Banker
+Computer Science,Economics,Programming,Collaboration,Design,Accountant
+Medical,Biology,Problem Solving,Critical Thinking,Healthcare,Architect
+Arts,CS,Analytical Thinking,Time Management,Research,Pharmacist
+Medical,Economics,Analytical Thinking,Critical Thinking,Engineering,Software Engineer
+Arts,CS,Research,Collaboration,Finance,Marketing Manager
+Commerce,History,Research,Critical Thinking,Engineering,Lawyer
